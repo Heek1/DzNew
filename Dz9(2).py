@@ -41,6 +41,7 @@ def who():
  if com=="ножиці" and hum=="папір":
      print("Computer win!")
 
+
 who()
 
 
