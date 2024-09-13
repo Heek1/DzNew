@@ -3,12 +3,15 @@ class Math:
     def plus(num1,num2):
         return num1 + num2
 
+    @staticmethod
     def minus(num1, num2):
         return num1 - num2
 
+    @staticmethod
     def multiply(num1, num2):
         return num1 * num2
 
+    @staticmethod
     def divide(num1, num2):
         return num1 / num2
 
